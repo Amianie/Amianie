@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
 
-**Amiani Elvis** Here welcome to my Github Page.
+# **Amiani Elvis** 
 
-Here are some ideas to get you started:
+## **Technologist**
 
 - 🔭 I’m currently working on Devops.
 - 🌱 I’m currently learning Linux.
