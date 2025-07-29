@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I am currently working on Flutter Mobile Apps and C# Applications.<br>Looking forward to collaborating on fun projects.<br>I am currently learning to build applications with C#.<br><br>
 
 
